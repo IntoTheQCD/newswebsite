@@ -1,7 +1,9 @@
 # Corp News Website Boilerplat
 The purpose of this project is to serve as a boilerplate for creating a website that involves news topics.<br>
 It's a copy-cat to the best of my ability to CNN's old website.
-<img src="https://ibb.co/d4ziWF">
+<br>
+![Alt text](https://h63i.imgup.net/newsNavpngdf20.png "Navigation preview..")
+
 <hr>
 #Technology Used
 This boiler plate is simple, everything's static here (for now).
