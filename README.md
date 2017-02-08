@@ -2,7 +2,6 @@
 The purpose of this project is to serve as a boilerplate for creating a website that involves news topics.<br>
 It's a copy-cat to the best of my ability to CNN's old website.
 <br>
-![Alt text](https://h63i.imgup.net/newsNavpngdf20.png "Navigation preview..")
 
 <hr>
 #Technology Used
